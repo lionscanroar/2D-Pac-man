@@ -1,7 +1,5 @@
 # Pac-Man Game
 
-### SOFT2201 2024 SID: (520268067)
-
 ## How to Run the Code
 
 To run the Pac-Man game, follow these steps:
